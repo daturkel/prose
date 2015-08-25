@@ -8,7 +8,7 @@ $body-text-color: #111111;
 $a-text-color: #0074D9;
 $a-text-color-visited: #F012BE;
 // Typography
-$font-stack: Georgia, serif;
+$font-stack: Georgia, serif; // try also Helvetica, Arial, sans-serif;
 
 html, button, input, select, textarea {
     font-family: $font-stack;

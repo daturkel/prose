@@ -1,7 +1,7 @@
 //// Variables
 // Measurements
 $max-container-width: 720px;
-$max-text-width: 700px; // must be smaller than $max-container-width
+$max-text-width: 700px; // must be smaller than or equal to $max-container-width
 $head-space: 10px;
 // Colors
 $body-text-color: #111111;
